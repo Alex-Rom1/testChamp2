@@ -276,8 +276,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: bef2735ff6b895940d5ea21a6575480439ffb81b
+      ref: session1
+      resolved-ref: "481e7b6a7fb65c3a708f1c7feecc01a29282181a"
       url: "https://github.com/Alex-Rom1/testChamp2_ui"
     source: git
     version: "0.0.1"
