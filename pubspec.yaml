@@ -30,6 +30,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_screenutil: ^5.9.3
+  get: ^4.7.3
+  test_champ2_ui_kit2:
+    git:
+      url: https://github.com/Alex-Rom1/testChamp2_ui
+      ref: session1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
